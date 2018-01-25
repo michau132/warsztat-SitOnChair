@@ -505,7 +505,6 @@ body {
 .section-prizes-row-col-description {
     width: 100%;
     text-align: center;
-    min-height: 300px;
 }
 
 .section-prizes-row-col-description span:nth-child(n) {
