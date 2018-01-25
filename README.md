@@ -1,2 +1,6 @@
-# warsztat-SitOnChair
-Projekt testowy robiony podczas warsztatów z 17.11.17
+# warsztat_siteonchar
+Projekt testowy na warsztatach z html i css
+
+
+
+
